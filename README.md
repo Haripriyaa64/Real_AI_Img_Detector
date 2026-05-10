@@ -3,15 +3,6 @@
 
 An intelligent web-based application that detects whether an image is **AI-generated 🤖** or **real 📸** using deep learning and image analysis techniques.
 
----
-
-## 🚀 Demo Preview
-
-<img width="1718" height="912" alt="image" src="https://github.com/user-attachments/assets/bd70f28c-494b-4e98-b4b2-3afb09e24b00" />
----
-<img width="1592" height="335" alt="image" src="https://github.com/user-attachments/assets/0de14287-df40-4860-a7b0-e5e712d8c620" />
-
-> Upload an image and instantly get prediction with confidence %
 
 ---
 
