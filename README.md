@@ -50,7 +50,6 @@ This project uses a **multi-layer detection approach**:
    - Combines all scores  
    - Outputs result with confidence %
 
----
 
 
 
